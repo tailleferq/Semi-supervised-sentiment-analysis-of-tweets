@@ -21,17 +21,28 @@ PACKAGES
 You need to install the following packages to run this programm : 
 
 nltk 
+
 re
+
 pandas
+
 autocorrect
+
 unidecode
+
 os
+
 csv
+
 matplotlib
+
 spacy
+
 optunity
 
-You also need to download the stopword corpus for nltk too.
+You also need to download the stopword corpus for nltk too, using this command : 
+
+python -c "import nltk; nltk.download('stopwords')
 
 HOW TO RUN THE PROGRAM
 
