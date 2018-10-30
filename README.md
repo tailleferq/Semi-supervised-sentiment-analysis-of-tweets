@@ -33,7 +33,7 @@ optunity
 
 You also need to download the stopword corpus for nltk too, using this command : 
 
-python -c "import nltk; nltk.download('stopwords')
+python -c "import nltk; nltk.download('stopwords')"
 
 HOW TO RUN THE PROGRAM
 
